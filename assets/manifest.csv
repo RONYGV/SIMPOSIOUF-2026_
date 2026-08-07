@@ -1,0 +1,65 @@
+hash,label,category,path,source_mime,source_format,original_width,original_height,original_bytes,optimized_format,optimized_width,optimized_height,optimized_bytes,saving_bytes
+f9c090295195,Logo oficial de Acvenisproh,avales,assets/img/avales/logo-oficial-de-acvenisproh.png,png,PNG,350,190,54590,PNG,350,190,54590,0
+01729da18701,Logo oficial de RAFTTEC,avales,assets/img/avales/logo-oficial-de-rafttec.png,png,PNG,227,190,51011,PNG,227,190,51011,0
+1231ccfee34d,Logo oficial de REDIIGEC,avales,assets/img/avales/logo-oficial-de-rediigec.png,png,PNG,280,190,45732,PNG,280,190,45732,0
+a85f661a3ec0,Logo oficial de RIT2,avales,assets/img/avales/logo-oficial-de-rit2.png,png,PNG,224,190,45437,PNG,224,190,45437,0
+7bc7085a2659,Logo Banco de Machala,bancos,assets/img/bancos/logo-banco-de-machala.png,png,PNG,276,150,20791,PNG,276,150,20791,0
+ceaca65d2f96,Logo Banco del Pacífico,bancos,assets/img/bancos/logo-banco-del-pacifico.png,png,PNG,206,150,14519,PNG,206,150,14519,0
+a5974e59511a,Logo Produbanco,bancos,assets/img/bancos/logo-produbanco.png,png,PNG,250,59,14564,PNG,250,59,14564,0
+261098f233a5,Chile,banderas,assets/img/banderas/chile.png,png,PNG,1500,1000,19399,PNG,160,107,1667,17732
+09c0a898b006,Colombia,banderas,assets/img/banderas/colombia.png,png,PNG,2048,1365,59340,PNG,160,107,346,58994
+ea963ec609b8,Costa Rica,banderas,assets/img/banderas/costa-rica.png,png,PNG,554,554,7454,PNG,160,160,1594,5860
+2f4899849137,Cuba,banderas,assets/img/banderas/cuba.png,png,PNG,700,700,36179,PNG,160,160,4140,32039
+5eacaf30df25,España,banderas,assets/img/banderas/espana.png,png,PNG,568,352,11613,PNG,160,99,1829,9784
+ca7167e0a47a,México,banderas,assets/img/banderas/mexico.png,png,WEBP,1280,732,70736,PNG,160,92,4411,66325
+2e8e64025694,Perú,banderas,assets/img/banderas/peru.png,webp,WEBP,1024,683,27470,PNG,160,107,5206,22264
+e321c2c79da1,Uruguay,banderas,assets/img/banderas/uruguay.png,png,PNG,800,533,31044,PNG,160,107,4879,26165
+b2f0c22f77d9,Bandera de Venezuela,banderas,assets/img/banderas/venezuela.png,png,PNG,1280,853,32284,PNG,160,107,2728,29556
+6700f79defaa,Logo oficial del III Simposio de Formación Técnica y Tecnológica,branding,assets/img/branding/logo-simposio-footer.png,png,PNG,769,230,80759,PNG,769,230,80759,0
+55066d4f5af9,Logo oficial del III Simposio de Formación Técnica y Tecnológica,branding,assets/img/branding/logo-simposio-header.png,png,PNG,880,263,24582,PNG,880,263,22472,2110
+9ed3d8601ea9,Logo oficial del Universitario de Formación,branding,assets/img/branding/logo-universitario-formacion-footer.png,png,PNG,247,280,21957,PNG,247,280,21957,0
+29daaa5ff16e,Universitario de Formación,branding,assets/img/branding/logo-universitario-formacion-nav.png,png,PNG,842,595,14343,PNG,842,595,14438,-95
+758fd2cabbfb,PhD. Alejandro Lema Cachinell,comites,assets/img/comites/alejandro-lema-cachinell.webp,png,PNG,197,197,42220,WEBP,197,197,8930,33290
+da6aa09303e9,Mgtr. Daniel Zaldívar Almarales,comites,assets/img/comites/daniel-zaldivar-almarales.webp,webp,WEBP,800,948,78568,WEBP,540,640,32758,45810
+17295cbccab3,PhD. Franklin Salas Aular,comites,assets/img/comites/franklin-salas-aular.webp,webp,WEBP,720,720,36914,WEBP,640,640,27864,9050
+64a186c0b413,Mgtr. Gabriela Benalcázar Dalfo,comites,assets/img/comites/gabriela-benalcazar-dalfo.webp,png,PNG,197,197,44687,WEBP,197,197,8966,35721
+812560dd32f9,Mgtr. Lissette Vacacela Conforme,comites,assets/img/comites/lissette-vacacela-conforme.webp,png,PNG,197,197,44734,WEBP,197,197,8672,36062
+31931f0d8235,PhD. Marta Lema Cachinell,comites,assets/img/comites/marta-lema-cachinell.webp,png,PNG,197,197,46867,WEBP,197,197,9542,37325
+c685c4d116ac,PhD. Rafael Bell Rodríguez,comites,assets/img/comites/rafael-bell-rodriguez.webp,png,PNG,197,197,46416,WEBP,197,197,9086,37330
+ffaa69a0baed,Ing. Rony Guagua Vélez,comites,assets/img/comites/rony-guagua-velez.webp,png,PNG,197,197,38823,WEBP,197,197,11002,27821
+d227c06f6df7,Mgtr. Yissel Martin Álvarez,comites,assets/img/comites/yissel-martin-alvarez.webp,webp,WEBP,420,420,146180,WEBP,420,420,33260,112920
+1d5014398cd8,PhD. Zulay Delgado Saeteros,comites,assets/img/comites/zulay-delgado-saeteros.webp,png,PNG,197,197,45474,WEBP,197,197,12566,32908
+3d5b89778a05,asset1,compartidos,assets/img/compartidos/asset1.png,png,WEBP,350,350,22028,PNG,350,350,57996,-35968
+7bcbdd0992eb,asset2,compartidos,assets/img/compartidos/asset2.png,png,PNG,172,160,11958,PNG,172,160,11958,0
+5ae65046c804,asset3,compartidos,assets/img/compartidos/asset3.png,png,PNG,472,160,25486,PNG,472,160,25486,0
+beb1aa0f9266,asset4,compartidos,assets/img/compartidos/asset4.png,png,PNG,560,87,26419,PNG,560,87,26419,0
+a2d635f3f507,asset5,compartidos,assets/img/compartidos/asset5.png,png,PNG,293,150,25413,PNG,293,150,25413,0
+920f6645d61f,asset6,compartidos,assets/img/compartidos/asset6.png,png,PNG,560,148,17246,PNG,560,148,17246,0
+68ad53625a55,asset7,compartidos,assets/img/compartidos/asset7.png,png,PNG,260,254,27023,PNG,260,254,27023,0
+1e85ec81b980,Calendario,placeholder,assets/img/compartidos/placeholder-transparente.png,gif,GIF,1,1,34,PNG,1,1,70,-36
+45c383c1004b,Mgtr. Claudia Mieles Velásquez,conferencistas,assets/img/conferencistas/claudia-mieles-velasquez.webp,jpeg,JPEG,760,1016,135368,WEBP,748,1000,112870,22498
+1592a623694f,Mgtr. Gisela Garcés Osses,conferencistas,assets/img/conferencistas/gisela-garces-osses.webp,jpeg,JPEG,900,1125,87051,WEBP,800,1000,55402,31649
+687dc68115a5,Dr. Rene Lagos Cutiño,conferencistas,assets/img/conferencistas/rene-lagos-cutino.webp,jpeg,JPEG,900,733,41199,WEBP,900,733,28892,12307
+d4c008264896,"Educación, inclusión y tecnologías del aprendizaje",ejes,assets/img/ejes/educacion-inclusion-y-tecnologias-del-aprendizaje.webp,webp,WEBP,1600,900,241318,WEBP,1200,675,120494,120824
+1989f70981f5,Inteligencia de negocios y gestión empresarial,ejes,assets/img/ejes/inteligencia-de-negocios-y-gestion-empresarial.webp,webp,WEBP,1600,960,278410,WEBP,1200,720,131406,147004
+65341ee33e06,"Salud, industria inteligente y artes digitales",ejes,assets/img/ejes/salud-industria-inteligente-y-artes-digitales.webp,webp,WEBP,1600,853,131694,WEBP,1200,640,62370,69324
+9591209d93e1,Ícono de datos para facturación,iconos,assets/img/iconos/datos-facturacion.png,png,PNG,150,180,15534,PNG,150,180,15534,0
+639dc570dce4,Logo de Gmail,iconos,assets/img/iconos/gmail.png,png,PNG,253,190,8986,PNG,253,190,8986,0
+8e0b8147c194,Microsoft PowerPoint,iconos,assets/img/iconos/microsoft-powerpoint.png,png,PNG,260,222,11760,PNG,260,222,11760,0
+e6f0a8061619,Mgtr. Daniel Zaldivar Almarales,programa,assets/img/programa/taller-daniel-zaldivar-almarales.webp,webp,WEBP,886,1050,71724,WEBP,844,1000,65710,6014
+a6a8ad824c9d,Mgtr. Iván Orozco Paredes,programa,assets/img/programa/taller-ivan-orozco-paredes.webp,webp,WEBP,760,659,23020,WEBP,760,659,23020,0
+ce8d426709bd,PhD. María Virginia Camacaro Pérez,programa,assets/img/programa/taller-maria-virginia-camacaro-perez.webp,webp,WEBP,699,920,31062,WEBP,699,920,31062,0
+8b99e6e04d71,Logo oficial de Acvenisproh,publicaciones,assets/img/publicaciones/logo-oficial-de-acvenisproh.png,png,PNG,331,180,50660,PNG,331,180,50660,0
+c6e261afa4d3,"Logo oficial de la Revista de Investigación, Formación y Desarrollo",publicaciones,assets/img/publicaciones/logo-oficial-de-la-revista-de-investigacion-formacion-y-desarrollo.png,png,PNG,423,173,52771,PNG,423,173,52771,0
+86c8644e7586,Logo oficial de la Revista Prohominum,publicaciones,assets/img/publicaciones/logo-oficial-de-la-revista-prohominum.png,png,PNG,500,118,56081,PNG,500,118,56081,0
+577e3a784724,PhD. Carlos Severiche Sierra,revisores,assets/img/revisores/carlos-severiche-sierra.webp,webp,WEBP,760,760,20372,WEBP,640,640,17944,2428
+14450bd69df3,Mgtr. Dora Briceño de Paredes,revisores,assets/img/revisores/dora-briceno-de-paredes.webp,webp,WEBP,617,760,26996,WEBP,520,640,23560,3436
+2b8991fb79e0,PhD. Gabriel Zepeda Martínez,revisores,assets/img/revisores/gabriel-zepeda-martinez.webp,webp,WEBP,760,646,15230,WEBP,640,544,12912,2318
+b4a2a7d973b9,PhD. Gaby Felipe Bravo,revisores,assets/img/revisores/gaby-felipe-bravo.webp,webp,WEBP,633,760,24882,WEBP,533,640,21380,3502
+a0d5b2cfb811,Dra. Isabel Gómez Trigueros,revisores,assets/img/revisores/isabel-gomez-trigueros.webp,webp,WEBP,760,760,26116,WEBP,640,640,23598,2518
+a72125deda54,Mgtr. Jimena Pérez Correa,revisores,assets/img/revisores/jimena-perez-correa.webp,webp,WEBP,608,760,42366,WEBP,512,640,35584,6782
+339f17eb0246,PhD. Juana Cubela González,revisores,assets/img/revisores/juana-cubela-gonzalez.webp,webp,WEBP,760,760,22870,WEBP,640,640,20142,2728
+8de5a4334f60,Mtro. Julio Zetter Patiño,revisores,assets/img/revisores/julio-zetter-patino.webp,webp,WEBP,760,760,29494,WEBP,640,640,24676,4818
+64edb8632d2b,PhD. Manuel Rivera Careaga,revisores,assets/img/revisores/manuel-rivera-careaga.webp,webp,WEBP,760,760,62760,WEBP,640,640,48866,13894
+fcdca910c07a,PhD. Max Sequeira Cascante,revisores,assets/img/revisores/max-sequeira-cascante.webp,webp,WEBP,760,760,30736,WEBP,640,640,26102,4634
+2352ab0e4d63,PhD. Tibaire Labrador Martínez,revisores,assets/img/revisores/tibaire-labrador-martinez.webp,webp,WEBP,760,651,23684,WEBP,640,548,20176,3508
